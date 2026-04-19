@@ -18,7 +18,8 @@ Behaviour
 * Drop rules are installed as high-priority OpenFlow flow entries
   with NO actions (= drop).
 
-Author : SDN Mininet Project – UE24CS252B
+Author : SDN Mininet Project - UE24CS252B
+PES2UG24CS577
 """
 
 from pox.core import core
